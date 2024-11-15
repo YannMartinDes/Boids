@@ -1,4 +1,4 @@
-# Projet Programmation fonctionnelle avancée Licence 2
+# Advanced functional programming Licence 2 project
 Here is the [subject](/sujet-projet.pdf) of the project.  
 The [documentation and personal report](/Documentation.pdf).  
 
